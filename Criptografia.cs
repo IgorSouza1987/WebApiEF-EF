@@ -24,6 +24,7 @@ namespace Projeto.Util
                 result += item.ToString("X2"); 
             }
             return result;
+            
         }
     }
 }
